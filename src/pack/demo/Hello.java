@@ -24,7 +24,7 @@ public class Hello {
 
         // 以上为sort（）方法自带的排序方法，但往往面试时需要手写冒泡排序排序，考验基本功
 
-        // guo
+
 
         //排序方式二：冒泡排序（务必要会手写）
         for (int i = 0; i < arrays.length - 1; i++) {
